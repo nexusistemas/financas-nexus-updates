@@ -1,0 +1,9 @@
+{
+    "versionCode":  1,
+    "versionName":  "1.0.0",
+    "apkUrl":  "https://github.com/nexusistemas/financas-nexus-updates/releases/download/v1.0.0/Financas-Nexus-v1.0.0.apk",
+    "sha256":  "6e98898702aaeee146e42eaaa3e628d5e0006d7db0ffbd08bcbb901055144acb",
+    "apkSizeBytes":  18388886,
+    "changelog":  "Versao inicial oficial Financas Nexus v1.0.0 - NexuSistemas Tecnologia: Nuvem Hibrida AES-256-GCM, Captura Bancaria, Cartoes com Multiplos Finais, Virada do Mes Zerada, Salarios/Fixos, Biometria e Auto-Atualizacao OTA.",
+    "publishedAt":  "2026-11-24T21:09:06Z"
+}

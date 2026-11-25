@@ -1,9 +1,9 @@
 {
-    "versionCode":  14,
-    "versionName":  "1.0.13",
-    "apkUrl":  "https://github.com/nexusistemas/financas-nexus-updates/releases/download/v1.0.13/Financas-Nexus-v1.0.13.apk",
-    "sha256":  "3935aa0297ec2b7c3a1ce4f338b482aa1d82c7cc19b2857975102b4a354a488a",
-    "apkSizeBytes":  18585498,
-    "changelog":  "Atualizacao Financas Nexus v1.0.13 com melhorias de desempenho, estabilidade e seguranca.",
-    "publishedAt":  "2026-11-25T19:49:53Z"
+    "versionCode":  15,
+    "versionName":  "1.0.14",
+    "apkUrl":  "https://github.com/nexusistemas/financas-nexus-updates/releases/download/v1.0.14/Financas-Nexus-v1.0.14.apk",
+    "sha256":  "e84adfe4fdc9c25491ac022efff315425ee64d938dc48e55a9f7eb69f11a2ff9",
+    "apkSizeBytes":  18601882,
+    "changelog":  "Atualizacao Financas Nexus v1.0.14 com melhorias de desempenho, estabilidade e seguranca.",
+    "publishedAt":  "2026-11-25T20:03:52Z"
 }
